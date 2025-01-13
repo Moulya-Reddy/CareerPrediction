@@ -11,7 +11,7 @@ Numerical Aptitude,
 Spatial Aptitude,
 Perceptual Aptitude,
 Abstract Reasoning and 
-Verbal Reasoning
+Verbal Reasoning.
 
 "Algorithm":
 
