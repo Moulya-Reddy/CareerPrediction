@@ -21,7 +21,7 @@ The project uses the Random Forest algorithm for career prediction, chosen for i
 
 The dataset currently includes a limited number of career options, but it can be expanded to improve the scope and diversity of predictions.
 
-Future Improvements
+"Future Improvements":
 
 Expanding the dataset to include more career options.
 Improving model accuracy and refining predictions.
