@@ -1,0 +1,26 @@
+#Sample Output
+Feature Names:
+['O_score', 'C_score', 'E_score', 'A_score', 'N_score', 'Numerical Aptitude', 'Spatial Aptitude', 'Perceptual Aptitude', 'Abstract Reasoning', 'Verbal Reasoning']
+
+Number of features: 10
+Predicted Career: Scientist
+Prediction based on the following features:
+O_score: 9
+C_score: 9
+E_score: 9
+A_score: 9
+N_score: 9
+Numerical Aptitude: 9
+Spatial Aptitude: 9
+Perceptual Aptitude: 9
+Abstract Reasoning: 9
+Verbal Reasoning: 9
+Top 5 important features:
+
+C_score: Importance=0.1809
+E_score: Importance=0.1411
+Numerical Aptitude: Importance=0.1330
+A_score: Importance=0.1037
+O_score: Importance=0.0982
+Accuracy:  80.24691358024691 %
+
