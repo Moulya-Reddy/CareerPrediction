@@ -24,3 +24,4 @@ A_score: Importance=0.1037
 O_score: Importance=0.0982
 Accuracy:  80.24691358024691 %
 
+#A graph showing feature importances or the prediction's confidence levels is also generated as part of the output.
