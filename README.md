@@ -7,10 +7,10 @@ The model uses the following traits and aptitudes as input features:
 
 OCEAN Traits: Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism
 Aptitudes:
-Numerical Aptitude
-Spatial Aptitude
-Perceptual Aptitude
-Abstract Reasoning
+Numerical Aptitude,
+Spatial Aptitude,
+Perceptual Aptitude,
+Abstract Reasoning and 
 Verbal Reasoning
 
 "Algorithm":
